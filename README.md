@@ -6,9 +6,10 @@
 
 - 🌱 I’m currently learning **Pandas and Ml Topics**
 
-- 💬 Ask me about **Python, Django, Flask and Rest Freamework**
+- 💬 Ask me about **Python, Django and Flask**
 
 - 📫 How to reach me **rishabunagar023@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
