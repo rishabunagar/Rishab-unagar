@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Rishab Unagar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 - 🔭 I’m currently working on **Python and Django Framework**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Pandas and Ml Topics**
 
-- 💬 Ask me about **Python,Django,Flask and DRF**
+- 💬 Ask me about **Python, Django, Flask and Rest Freamework**
 
 - 📫 How to reach me **rishabunagar023@gmail.com**
 
