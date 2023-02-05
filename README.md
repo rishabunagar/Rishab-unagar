@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Python and Django Framework**
 
-- 🌱 I’m currently learning **Pandas and Ml Topics**
+- 🌱 I’m currently learning **Pandas and Machine Learning**
 
 - 💬 Ask me about **Python, Django and Flask**
 
